@@ -5,7 +5,11 @@
  }
 
  .map__view {
-     width: 70%;
+      width: 67.9%; 
+     position: fixed;
+     top: 0;
+     left: auto;
+     right: 0;
  }
 
  .map__list {

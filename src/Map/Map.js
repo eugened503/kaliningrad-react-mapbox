@@ -12,7 +12,7 @@ function Map() {
   const [viewport, setViewport] = useState({ //стейт с картой Калининграда
     latitude: 54.710128, //широта
     longitude: 20.5105838, //долгота
-    width: "70vw",
+    width: "100%",
     height: "100vh",
     zoom: 10
   })
@@ -39,10 +39,10 @@ function Map() {
   return (
     <div className="map">
       <div className="map__list">
-        {points.features.map((point) => (
+        {points.features.map((point, index) => (
           <ListItem
-            key={point.properties.ID}
-            nameItem={point.properties.DESCRIPTIO}
+            key={index}
+            nameItem={point.properties.name}
             onClick={e => {
               e.preventDefault();
               setSelectedPoint(point);
@@ -61,9 +61,9 @@ function Map() {
             setViewport(viewport);
           }}
         >
-          {points.features.map((point) => (
+          {points.features.map((point, index) => (
             <Marker
-              key={point.properties.ID}
+              key={index}
               latitude={point.geometry.coordinates[1]}
               longitude={point.geometry.coordinates[0]}
             >
@@ -83,7 +83,8 @@ function Map() {
               }}
             >
               <div>
-                <p>{selectedPoint.properties.DESCRIPTIO}</p>
+                <p>{selectedPoint.properties.name}</p>
+                <p>Рейтинг: {selectedPoint.properties.rating}</p>
               </div>
             </Popup>
           ) : null}
