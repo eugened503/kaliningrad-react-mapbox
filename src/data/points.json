@@ -1,0 +1,256 @@
+{
+  "features": [
+    {
+      "properties": {
+        "ID": 1,
+        "DESCRIPTIO": "ГОСТИНИЦА «КАЛИНИНГРАД» И МЕСТО ПОСЛЕДНЕГО ДОМА КАНТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50957,
+          54.71217
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 2,
+        "DESCRIPTIO": "ДОМ СОВЕТОВ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.51264,
+          54.70991
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 3,
+        "DESCRIPTIO": "МУЗЕЙ «БУНКЕР»"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50956,
+          54.7133
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 4,
+        "DESCRIPTIO": "ОСТРОВ КАНТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.51206,
+          54.70638
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 5,
+        "DESCRIPTIO": "МЕДОВЫЙ МОСТ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.51382,
+          54.70576
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 6,
+        "DESCRIPTIO": "РЫБНАЯ ДЕРЕВНЯ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.51503,
+          54.70481
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 7,
+        "DESCRIPTIO": "КИРХА КРЕСТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.52258,
+          54.7057
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 8,
+        "DESCRIPTIO": "ПАВИЛЬОН МЮНХГАУЗЕНА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.51713,
+          54.6991
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 9,
+        "DESCRIPTIO": "ФРИДЛАНДСКИЕ ВОРОТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.52176,
+          54.69537
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 10,
+        "DESCRIPTIO": "ЮЖНЫЙ ПАРК И СКВЕР СОВЕТСКО-ПОЛЬСКОЙ ДРУЖБЫ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50982,
+          54.69466
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 11,
+        "DESCRIPTIO": "КИРХА СВЯТОГО СЕМЕЙСТВА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5096,
+          54.69795
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 12,
+        "DESCRIPTIO": "ПЛОЩАДЬ КАЛИНИНА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.49908,
+          54.69564
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 13,
+        "DESCRIPTIO": "ЮЖНЫЙ ВОКЗАЛ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.49859,
+          54.6946
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 14,
+        "DESCRIPTIO": "БРАНДЕНБУРГСКИЕ ВОРОТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.49469,
+          54.69727
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 15,
+        "DESCRIPTIO": "ХОХБУНКЕР"
+      },
+      "geometry": {
+        "coordinates": [
+          20.49866,
+          54.69723
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 16,
+        "DESCRIPTIO": "ГОСПИТАЛЬ СВЯТОГО ГЕОРГА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50609,
+          54.70148
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 17,
+        "DESCRIPTIO": "ДОМ КАНТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.5047,
+          54.70306
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 18,
+        "DESCRIPTIO": "ЦЕНТР КУЛЬТУРЫ МОЛОДЕЖИ (БЫВШАЯ БИРЖА)"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50738,
+          54.70509
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 19,
+        "DESCRIPTIO": "ФРИДРИХСБУРГСКИЕ ВОРОТА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.49361,
+          54.70454
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 20,
+        "DESCRIPTIO": "РЕЙХСБАНБРЮККЕ"
+      },
+      "geometry": {
+        "coordinates": [
+          20.48955,
+          54.70572
+        ]
+      }
+    },
+    {
+      "properties": {
+        "ID": 21,
+        "DESCRIPTIO": "МУЗЕЙ МИРОВОГО ОКЕАНА"
+      },
+      "geometry": {
+        "coordinates": [
+          20.50029,
+          54.70657
+        ]
+      }
+    }
+  ]
+}
