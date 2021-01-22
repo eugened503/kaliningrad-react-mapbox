@@ -17,4 +17,4 @@
 `npm start` — запускает проект на локальном сервере
 
 ## Ссылка на проект
-[Проект находится здесь](https://eugened503.github.io/kaliningrad-react-mapbox/)
+[Проект находится здесь](https://kaliningrad-react-mapbox.vercel.app/)
